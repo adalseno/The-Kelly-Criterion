@@ -1,3 +1,16 @@
+This is a fork of [The Kelly Criterion](https://github.com/1kc2/The-Kelly-Criterion) by [ikc2](https://github.com/1kc2and) and uses `numba` in `utils.py` to speed up the computation for correlated assets ($\approx 53X$ faster on the same dataset). 
+My setup:
+
+- numpy 1.23.5
+- numba 0.57.1
+- pandas 2.0.3
+- python 3.9.15
+- matplotlib 3.7.2
+- seaborn 0.12.2
+
+You must have `numba` installed and should match the same setup to avoid issues. Different versions may work but haven't been tested.
+
+
 # The Kelly Criterion
 
 > This is the accompanying Jupyter Notebook for this [blog](https://blog.karanc.me/2020/10/21/the-kelly-criterion-part-2) post.
