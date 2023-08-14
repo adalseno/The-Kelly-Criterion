@@ -10,6 +10,7 @@ My setup:
 
 You must have `numba` installed and should match the same setup to avoid issues. Different versions may work but haven't been tested.
 
+Run in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adalseno/The-Kelly-Criterion/HEAD)
 
 # The Kelly Criterion
 
