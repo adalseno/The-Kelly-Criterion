@@ -1,6 +1,6 @@
-numpy==1.23.5
-numba==0.57.1
-pandas==2.0.3
+numpy>=1.23
+numba>=0.57
+pandas>=2.0
 python>=3.9.1
-matplotlib==3.7.2
-seaborn==0.12.2
+matplotlib>=3.7
+seaborn>=0.12
