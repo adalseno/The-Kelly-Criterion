@@ -1,5 +1,5 @@
-numba
-numpy
-pandas
-matplotlib
-seaborn
+numba==0.57.1;python_version=="3.9.15"
+numpy==1.23.5;python_version=="3.9.15"
+pandas==2.0.3;python_version=="3.9.15"
+matplotlib==3.7.2;python_version=="3.9.15"
+seaborn==0.12.2;python_version=="3.9.15"
