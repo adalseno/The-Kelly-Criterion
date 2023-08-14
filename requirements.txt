@@ -1,6 +1,6 @@
 python
-numpy
 numba
+numpy
 pandas
 matplotlib
 seaborn
