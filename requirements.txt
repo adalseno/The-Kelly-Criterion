@@ -1,5 +1,5 @@
-numpy>=1.23
-numba>=0.57
+numpy==1.23.5
+numba>=0.57.1
 pandas>=1.5
 python>=3.9.1
 matplotlib>=3.7
