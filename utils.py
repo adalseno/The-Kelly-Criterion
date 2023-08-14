@@ -167,7 +167,7 @@ def backtest(
         kelly_weights[leverage_cond] = leverage * kelly_weights[leverage_cond].div(
             daily_weights_sum[leverage_cond], axis=0
         )
-        #
+        
         total_returns[f"max_leverage_{leverage}"] = (returns_df * kelly_weights).sum(axis=1)
 
     return total_returns
