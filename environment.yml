@@ -1,0 +1,11 @@
+# environment.yml
+channels:
+- conda-forge
+dependencies:
+- python==3.9.15
+- numba
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- pip
